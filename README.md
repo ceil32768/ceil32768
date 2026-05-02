@@ -46,7 +46,7 @@
 <p align="center">
   <b>Web Development</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,html,css&theme=dark" alt="Web Dev" />
+    <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web Dev" />
   </a>
 </p>
 

@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi I'm Ceil</h1>
+<h3 align="center">A Independent Game Developer</h3>
 
-<!--
-**ceil32768/ceil32768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://play.google.com/store/apps/dev?id=6647403418196319688" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-Developer_Profile-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Developer" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 社群連結徽章 -->
+<p align="center">
+  <a href="https://instagram.com/ceil32768" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+
+<h3 align="center">🛠️ Languages & Tools</h3>
+
+<!-- 風格統一的技能圖示 (透過修改 i= 後面的單字來增減) -->
+<p align="center">
+  <b>Game Dev & Management</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unreal,blender,figma,obsidian&theme=dark" alt="Game Dev Tools" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Programming Languages</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,js&theme=dark" alt="Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Web Development</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,html,css&theme=dark" alt="Web Dev" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Editors & IDEs</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vim&theme=dark" alt="IDEs" />
+  </a>
+</p>
+---

@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm CY (Pixceil)</h1>
+<h1 align="center">Hi I'm Ceil</h1>
 
 <!-- 移除了 <a> 標籤，純粹展示動態圖片，徹底消滅多餘底線 -->
 <p align="center">
@@ -20,6 +20,7 @@
   <a href="https://play.google.com/store/apps/dev?id=6647403418196319688" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-Developer_Profile-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Developer" />
   </a>
+  <br>
   <a href="https://instagram.com/ceil32768" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>

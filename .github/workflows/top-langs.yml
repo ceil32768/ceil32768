@@ -1,0 +1,29 @@
+name: Update Top Languages Card
+
+on:
+  schedule:
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=transparent&hide_border=true&title_color=00C4B6&text_color=8B949E
+          path: profile/top-langs.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
+      - name: Commit card
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/top-langs.svg
+          git commit -m "Update top languages card" || exit 0
+          git push

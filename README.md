@@ -12,6 +12,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00c4b6&center=true&vCenter=true&width=435&lines=A+Student+from+NCKU+CSIE&repeat=false" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
+
 <h3 align="center">Languages & Tools</h3>
 
 <p align="center">

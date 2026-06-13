@@ -1,6 +1,5 @@
-<h1 align="center">Hi I'm Ceil</h1>
+<h1 align="center">Hi, I'm Ceil</h1>
 
-<!-- 移除了 <a> 標籤，純粹展示動態圖片，徹底消滅多餘底線 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00c4b6&center=true&vCenter=true&width=435&lines=Founder+of+Ceilusion+Studio&repeat=false" alt="Typing SVG" />
 </p>
@@ -13,46 +12,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00c4b6&center=true&vCenter=true&width=435&lines=A+Student+from+NCKU+CSIE&repeat=false" alt="Typing SVG" />
 </p>
 
----
+<h3 align="center">Languages & Tools</h3>
 
-<!-- 社群與開發者連結徽章 (左右並排顯示) -->
 <p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=6647403418196319688" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play-Developer_Profile-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Developer" />
-  </a>
+  <b>Game Dev</b><br>
+  <img src="https://skillicons.dev/icons?i=unreal,blender,figma,obsidian&theme=dark" alt="Game Dev Tools" />
+</p>
+
+<p align="center">
+  <b>Programming</b><br>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&theme=dark" alt="Programming Languages" />
+</p>
+
+<p align="center">
+  <b>Editors & Dev Tools</b><br>
+  <img src="https://cdn.simpleicons.org/cursor/00C4B6" alt="Cursor" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=neovim,vim&theme=dark" alt="Editors" />
   <br>
-  <a href="https://instagram.com/ceil32768" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/autohotkey/00C4B6" alt="AutoHotkey" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tmux/tmux-original.svg" alt="tmux" width="48" height="48" />
 </p>
-
-
-<h3 align="center">🛠️ Languages & Tools</h3>
-
 <p align="center">
-  <b>Game Dev & Management</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal,blender,figma,obsidian&theme=dark" alt="Game Dev Tools" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Programming Languages</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,js&theme=dark" alt="Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Web Development</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web Dev" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Editors & IDEs</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim&theme=dark" alt="IDEs" />
-  </a>
+  <sub><del>I want to throw my mouse btw</del> mouse survived, barely.</sub>
 </p>

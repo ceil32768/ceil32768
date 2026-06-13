@@ -13,13 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Prepare output folder
-        run: mkdir -p profile
+      - uses: actions/checkout@v6
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=00C4B6&text_color=8B949E
@@ -28,8 +25,8 @@ jobs:
 
       - name: Commit card
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/top-langs.svg
           git diff --cached --quiet && exit 0
           git commit -m "Update top languages card"

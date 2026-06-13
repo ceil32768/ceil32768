@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Language Breakdown" />
 </p>
 
 <h3 align="center">Languages & Tools</h3>
